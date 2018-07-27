@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="httpd-server">
+    <serverData>
+      <paths name="httpd-server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/html/hhfzl_224DDUI46_UY" local="$PROJECT_DIR$/.." />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
